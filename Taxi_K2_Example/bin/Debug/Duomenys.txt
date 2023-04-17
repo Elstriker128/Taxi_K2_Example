@@ -1,0 +1,6 @@
+Justinas Klepavičius; SFT479; Peugeot; 307; 2016; 50000
+Jonas Klepys; ATO456; Peugeot; 308; 2016; 48000
+Kazys Kliokis; JKA789; Audi; A3; 2018; 43000
+Balys Sruoga; GHA156; Peugeot; 307; 2018; 30000
+Petras Grybauskas; SKL579; Audi; A6; 2015; 46000
+Vytautas Didysis; LTU420; BMW; X6; 2019; 20000
